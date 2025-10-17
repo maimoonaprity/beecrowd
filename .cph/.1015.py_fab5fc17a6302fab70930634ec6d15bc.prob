@@ -1,0 +1,1 @@
+{"name":"Local: 1015","url":"d:\\PythonCode\\beecrowd\\1015.py","tests":[{"id":1760611199108,"input":"1.0 7.0\n5.0 9.0","output":"4.4721"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PythonCode\\beecrowd\\1015.py","group":"local","local":true}

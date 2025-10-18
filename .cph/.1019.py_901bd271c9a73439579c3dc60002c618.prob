@@ -1,0 +1,1 @@
+{"name":"Local: 1019","url":"d:\\PythonCode\\beecrowd\\1019.py","tests":[{"id":1760714120565,"input":"1","output":"0:0:1"},{"id":1760714283864,"input":"140153","output":"\t\n38:55:53"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PythonCode\\beecrowd\\1019.py","group":"local","local":true}

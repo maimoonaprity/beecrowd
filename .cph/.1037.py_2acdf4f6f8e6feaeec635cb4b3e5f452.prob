@@ -1,0 +1,1 @@
+{"name":"Local: 1037","url":"d:\\PythonCode\\beecrowd\\1037.py","tests":[{"id":1760780910232,"input":"-25.02","output":"Fora de intervalo"},{"id":1760780946131,"input":"25.01","output":"Intervalo (25,50]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PythonCode\\beecrowd\\1037.py","group":"local","local":true}

@@ -7,5 +7,6 @@
 
 # print(final_list)
 
-a,b=input().split()
-print(a)
+a=input().split()
+b=type(a)
+print(b)
